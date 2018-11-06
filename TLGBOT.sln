@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2041
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TLGBOT", "TLGBOT\TLGBOT.csproj", "{3BEB239F-0386-4597-BE61-14A1B77EC822}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GetProxy", "GetProxy\GetProxy.csproj", "{D56F1805-27B3-46C5-BDF4-ECA5182EAFEE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GoogleLibs", "Google_libs\GoogleLibs.csproj", "{5C76F43C-05D2-4035-AE40-A52E91653B82}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3BEB239F-0386-4597-BE61-14A1B77EC822}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3BEB239F-0386-4597-BE61-14A1B77EC822}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3BEB239F-0386-4597-BE61-14A1B77EC822}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3BEB239F-0386-4597-BE61-14A1B77EC822}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D56F1805-27B3-46C5-BDF4-ECA5182EAFEE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D56F1805-27B3-46C5-BDF4-ECA5182EAFEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D56F1805-27B3-46C5-BDF4-ECA5182EAFEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D56F1805-27B3-46C5-BDF4-ECA5182EAFEE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5C76F43C-05D2-4035-AE40-A52E91653B82}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C76F43C-05D2-4035-AE40-A52E91653B82}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C76F43C-05D2-4035-AE40-A52E91653B82}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C76F43C-05D2-4035-AE40-A52E91653B82}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9226AF3A-497D-4AEA-982E-B2D20DE7CF92}
+	EndGlobalSection
+EndGlobal
