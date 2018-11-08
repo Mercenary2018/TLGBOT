@@ -6,8 +6,6 @@
 
   <ItemGroup>
     <PackageReference Include="NetTelegramBotApi" Version="4.2.0" />
-    <PackageReference Include="Selenium.WebDriver" Version="3.141.0" />
-    <PackageReference Include="Selenium.WebDriver.ChromeDriver" Version="2.43.0" />
   </ItemGroup>
 
 </Project>

@@ -7,11 +7,13 @@
 
   <ItemGroup>
     <PackageReference Include="Google.Apis" Version="1.36.1" />
+    <PackageReference Include="NetTelegramBotApi" Version="4.2.0" />
     <PackageReference Include="Telegram.Bot.Mvc" Version="1.0.4" />
   </ItemGroup>
 
   <ItemGroup>
     <ProjectReference Include="..\GetProxy\GetProxy.csproj" />
+    <ProjectReference Include="..\БиблиотекаМодерации\БиблиотекаМодерации.csproj" />
   </ItemGroup>
 
 </Project>
